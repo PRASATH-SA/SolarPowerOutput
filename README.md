@@ -8,4 +8,7 @@
          - Histogram
          - Heatmap
          - Box plot
+         - Histplot
+         - ![Histplot](https://github.com/user-attachments/assets/c7570f15-c162-440d-bdda-35618e4e84fc)
+
 - Machine Learning
